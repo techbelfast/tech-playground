@@ -1,0 +1,19 @@
+{
+    "address": "test",
+    "benefits": [
+        "Free parking",
+        "Remote working"
+    ],
+    "category": "Agency",
+    "content": "",
+    "headCount": 5,
+    "latitude": "",
+    "logo": "",
+    "longitude": "",
+    "name": "Test",
+    "skills": [
+        "Javascript",
+        "Python"
+    ],
+    "website": ""
+}

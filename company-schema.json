@@ -1,0 +1,44 @@
+{
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "address": {
+            "type": "string"
+        },
+        "website": {
+            "type": "string"
+        },
+        "category": {
+            "type": "string"
+        },
+        "content": {
+            "type": "string"
+        },
+        "headCount": {
+            "type": "number"
+        },
+        "logo": {
+            "type": "string"
+        },
+        "longitude": {
+            "type": "string"
+        },
+        "latitude": {
+            "type": "string"
+        },
+        "skills": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "benefits": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}
