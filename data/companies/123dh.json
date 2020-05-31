@@ -1,0 +1,19 @@
+{
+    "address": "123dh",
+    "benefits": [
+        "Free parking",
+        "Remote working"
+    ],
+    "category": "Agency",
+    "content": "",
+    "headCount": 1,
+    "latitude": "",
+    "logo": "",
+    "longitude": "",
+    "name": "Test",
+    "skills": [
+        "Javascript",
+        "Python"
+    ],
+    "website": ""
+}
